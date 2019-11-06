@@ -12,6 +12,9 @@ module.exports = {
             }
         ]
     },
+    "devServer": {
+        "port": 8083
+    },
     resolve: {
         extensions: ['.tsx', '.ts', '.js']
     },
